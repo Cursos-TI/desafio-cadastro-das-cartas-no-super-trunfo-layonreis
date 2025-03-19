@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main(){
+
+char estado[11] = "São Paulo";
+char código da carta[20] = "A01";
+char nome da cidade[20] = "Sorocaba";
+int população =  723.682;
+float área em km² = 450,382 km²;
+float PIB = 161 1 bilhões;
+int Número de pontos turisticos = 29;
+
+
+char estado[15] = "Minas Gerais";
+char código da carta[20] = "B01";
+char nome da cidade[20] = "Montes Claros";
+int população = 414.240;
+float área em km² = 3 589,811 km²;
+float PIB = 10.800.251;
+int Número de pontos turisticos = 21;
+
+
+
+
+
+
+
+
+}
+
+
